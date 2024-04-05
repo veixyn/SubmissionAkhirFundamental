@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SubmissionAkhir</string>
+    <string name="username">Username</string>
+    <string name="searchbar_hint">Search for users here…</string>
+    <string name="name">Name</string>
+    <string name="login">Login</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="follower_count">%1$s Followers</string>
+    <string name="following_count">%1$s Following</string>
+    <string name="favorite">FAV</string>
+    <string name="switch_mode">Switch View Modes</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="current_theme">Current Theme</string>
+</resources>
